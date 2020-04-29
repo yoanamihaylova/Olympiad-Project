@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\Olympiad  project code\\Olympiad  project code.csproj": {}
+    "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\Olympiad  project code\\Olympiad  project code.csproj": {
+    "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\Olympiad  project code\\Olympiad  project code.csproj",
+        "projectUniqueName": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj",
         "projectName": "Olympiad  project code",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\Olympiad  project code\\Olympiad  project code.csproj",
+        "projectPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\Olympiad  project code\\obj\\",
+        "outputPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

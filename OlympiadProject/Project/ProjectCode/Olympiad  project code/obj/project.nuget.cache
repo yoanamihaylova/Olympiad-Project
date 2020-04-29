@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1iup0/8DeVojvDSbrHEPQHdDRyBsVeGGm5M8YKOS1r60ysg7Z0at18UCZaNDCo10MgkxsG1dtAbIv5hAQ1nRTA==",
+  "dgSpecHash": "ctuRqkQ8/fOMcwY+phKmbSPoSZ3mB6W+fpWr3FC/b2ZzWkwIMdlD7+/y/MFgKJzty6tNyFFLp8Dz5kndCUf41A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\Olympiad  project code\\Olympiad  project code.csproj",
+  "projectFilePath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

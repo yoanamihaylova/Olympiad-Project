@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqHsM6NpmHxqoeUf4OS4T2rViyjM1zo784FqyWx5rmf3ZOnPzxgPjzBOnbektMfD/UDdEIWcq4ixQSExdLuRkg==",
+  "dgSpecHash": "lfsrlH4ZJCGDPX9qhvm50Gz9757XjghW4fnVFPmaSDg3E/4thIgfetj23zuB0GXe8F12Wpv99olZzRe+Yxd2MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Olympiad  project code2\\NUnitTestProject\\NUnitTestProject.csproj",
+  "projectFilePath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\NUnitTestProject\\NUnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
