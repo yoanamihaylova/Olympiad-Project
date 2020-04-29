@@ -1,5 +1,5 @@
 # Olympiad-Project
-* [Project](./Project)
+* [Project](.OlympiadProjdect//Project)
      * [DataBase](.)
      * [ProgramCode](.)
          * [Business Layer](.)
