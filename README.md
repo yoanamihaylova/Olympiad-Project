@@ -1,12 +1,12 @@
 # Olympiad-Project
-* [Project](./OlympiadProjdect/Project)
-     * [DataBase](.)
-     * [ProgramCode](.)
+* [Project](./OlympiadProject/Project)
+     * [DataBase](./OlympiadProject/Project/DataBase)
+     * [ProgramCode](./OlympiadProject/Project/ProjectCode)
          * [Business Layer](.)
          * [Presentation](.)
          * [Data/Models](.)
     
-* [NUnit Tests](./OlympiadProject/NUnitTests)
+* [NUnit Tests](./OlympiadProject/NUnitTestProject)
      * [ООП](./II/OOP)
      * [База Данни](./II/DataBase)
      * [Разработка на софтуер](./II/SoftwareDeveloping)
