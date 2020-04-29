@@ -8,4 +8,4 @@
               * [Models](./OlympiadProject/Project/ProjectCode/Olympiadprojectcode/Data/Models)
     
 * [NUnit Tests](./OlympiadProject/NUnitTestProject)   
-* [Documentation](./Documentation)
+* [Documentation](./OlympiadProject/Documentation)
