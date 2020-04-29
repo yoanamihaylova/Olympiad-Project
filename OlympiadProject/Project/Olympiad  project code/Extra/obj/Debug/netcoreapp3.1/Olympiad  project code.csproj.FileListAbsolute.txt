@@ -1,0 +1,105 @@
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.exe
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.deps.json
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.runtimeconfig.json
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.runtimeconfig.dev.json
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.pdb
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.AssemblyInfoInputs.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.AssemblyInfo.cs
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.csproj.CopyComplete
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.pdb
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.genruntimeconfig.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.csprojAssemblyReference.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.csproj.CoreCompileInputs.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.exe
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.deps.json
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.runtimeconfig.json
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.runtimeconfig.dev.json
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.pdb
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Olympiad  project code.xml
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.csprojAssemblyReference.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.csproj.CoreCompileInputs.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.AssemblyInfoInputs.cache
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.AssemblyInfo.cs
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.csproj.CopyComplete
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.dll
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.pdb
+D:\It Kariera\Module 7\Olympiad-Project\Olympiad-Project\Olympiad  project code2 – резерве\Olympiad  project code\obj\Debug\netcoreapp3.1\Olympiad  project code.genruntimeconfig.cache
