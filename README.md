@@ -2,9 +2,9 @@
 * [Project](./OlympiadProject/Project)
      * [DataBase](./OlympiadProject/Project/DataBase)
      * [ProgramCode](./OlympiadProject/Project/ProjectCode)
-         * [Business Layer](.)
-         * [Presentation](.)
-         * [Data/Models](.)
+         * [Business Layer](./OlympiadProject/Project/ProjectCode/)
+         * [Presentation](./OlympiadProject/Project/ProjectCode/)
+         * [Data/Models](./OlympiadProject/Project/ProjectCode/)
     
 * [NUnit Tests](./OlympiadProject/NUnitTestProject)
      * [ООП](./II/OOP)
