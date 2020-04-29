@@ -6,7 +6,7 @@
          * [Presentation](.)
          * [Data/Models](.)
     
-* [NUnit Tests](./OlympiadProject/NUnitTests)
+* [NUnit Tests](./OlympiadProject/NUnitTestProject)
      * [ООП](./II/OOP)
      * [База Данни](./II/DataBase)
      * [Разработка на софтуер](./II/SoftwareDeveloping)
