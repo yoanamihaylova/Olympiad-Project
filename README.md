@@ -6,9 +6,9 @@
          * [Presentation](.)
          * [Data/Models](.)
     
-* [NUnit Tests](./II)
+* [NUnit Tests](./NUnitTests)
      * [ООП](./II/OOP)
      * [База Данни](./II/DataBase)
      * [Разработка на софтуер](./II/SoftwareDeveloping)
    
-* [Documentation](./II)
+* [Documentation](./Documentation)
