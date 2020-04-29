@@ -1,7 +1,7 @@
 # Olympiad-Project
 * [Project](./OlympiadProject/Project)
-     * [DataBase](.)
-     * [ProgramCode](.)
+     * [DataBase](./OlympiadProject/Project/DataBase)
+     * [ProgramCode](./OlympiadProject/Project/ProjectCode)
          * [Business Layer](.)
          * [Presentation](.)
          * [Data/Models](.)
