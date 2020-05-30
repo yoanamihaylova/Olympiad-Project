@@ -1,6 +1,6 @@
 # Olympiad-Project
 ```sh
-127.0.0.1:8000
+By yoanamihaylova () & nadya02 ()
 ```
 * [Project](./OlympiadProject/Project)
      * [NUnit Tests](./OlympiadProject/Project/ProjectCode/NUnitTestProject)
