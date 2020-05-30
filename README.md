@@ -5,7 +5,7 @@
          * [Business Layer](https://github.com/yoanamihaylova/Olympiad-Project/tree/master/OlympiadProject/Project/ProjectCode/Olympiad%20%20project%20code/Business)
          * [Presentation](./OlympiadProject/Project/ProjectCode/OlympiadProjectCode/Presentation)
          * [Data](https://github.com/yoanamihaylova/Olympiad-Project/tree/master/OlympiadProject/Project/ProjectCode/Olympiad%20%20project%20code/Data)
-              * [Models](./OlympiadProject/Project/ProjectCode/OlympiadProjectCode/Data/Models)
+              * [Models](https://github.com/yoanamihaylova/Olympiad-Project/tree/master/OlympiadProject/Project/ProjectCode/Olympiad%20%20project%20code/Data/Models)
     
 * [Data Base](./OlympiadProject/DataBase)   
 * [Documentation](./OlympiadProject/Documentation)
