@@ -4,7 +4,7 @@
      * [ProgramCode](./OlympiadProject/Project/ProjectCode)
          * [Business Layer](./OlympiadProject/Project/ProjectCode/Olympiaprojectcode/Business)
          * [Presentation](./OlympiadProject/Project/ProjectCode/OlympiadProjectCode/Presentation)
-         * [Data](./OlympiadProject/Project/ProjectCode/Olympiadprojectcode/Data)
+         * [Data](./OlympiadProject/Project/ProjectCode/Olympiad--project-code/Data)
               * [Models](./OlympiadProject/Project/ProjectCode/OlympiadProjectCode/Data/Models)
     
 * [Data Base](./OlympiadProject/DataBase)   
