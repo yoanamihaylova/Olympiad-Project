@@ -3,7 +3,7 @@
 By yoanamihaylova & nadya02
 ```
 [yoanamihaylova](https://github.com/yoanamihaylova)
-nadya02(https://github.com/nadya02)
+[nadya02](https://github.com/nadya02)
 
 * [Project](./OlympiadProject/Project)
      * [NUnit Tests](./OlympiadProject/Project/ProjectCode/NUnitTestProject)
