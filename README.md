@@ -1,6 +1,6 @@
 # Olympiad-Project
 ```sh
-By yoanamihaylova(https://github.com/yoanamihaylova) & nadya02 ()
+By [yoanamihaylova](https://github.com/yoanamihaylova) & nadya02 ()
 ```
 * [Project](./OlympiadProject/Project)
      * [NUnit Tests](./OlympiadProject/Project/ProjectCode/NUnitTestProject)
