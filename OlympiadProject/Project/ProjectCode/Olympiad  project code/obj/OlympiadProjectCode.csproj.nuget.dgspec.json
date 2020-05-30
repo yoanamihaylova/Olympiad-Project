@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\NUnitTestProject\\NUnitTestProject.csproj": {}
+    "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\OlympiadProjectCode.csproj": {}
   },
   "projects": {
-    "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\NUnitTestProject\\NUnitTestProject.csproj": {
+    "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\OlympiadProjectCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\NUnitTestProject\\NUnitTestProject.csproj",
-        "projectName": "NUnitTestProject",
-        "projectPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\NUnitTestProject\\NUnitTestProject.csproj",
+        "projectUniqueName": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\OlympiadProjectCode.csproj",
+        "projectName": "OlympiadProjectCode",
+        "projectPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\OlympiadProjectCode.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\NUnitTestProject\\obj\\",
+        "outputPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,11 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {
-              "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj": {
-                "projectPath": "D:\\It Kariera\\Module 7\\MyGitHub\\Olympiad-Project\\OlympiadProject\\Project\\ProjectCode\\Olympiad  project code\\Olympiad  project code.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -49,21 +45,23 @@
               "target": "Package",
               "version": "[3.1.3, )"
             },
-            "Microsoft.NET.Test.Sdk": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[16.4.0, )"
+              "version": "[3.1.3, )"
             },
-            "Moq": {
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
-              "version": "[4.14.0, )"
+              "version": "[1.1.6, )"
             },
-            "NUnit3TestAdapter": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.15.1, )"
+              "version": "[3.1.3, )"
             },
-            "nunit": {
+            "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[4.8.1, )"
             }
           },
           "imports": [
